@@ -1,0 +1,17 @@
+{
+    "name": "retr0/composer",
+    "autoload": {
+        "psr-4": {
+            "Retr0\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar0ve",
+            "email": "fhhmaro@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
